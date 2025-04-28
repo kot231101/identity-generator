@@ -22,7 +22,7 @@ pip install -r requirements.txt
 To generate a user profile, run the `main.py` script. This script utilizes datasets located in the `data` directory. Modify or augment these datasets to customize the generated data:
 
 ```bash
-python main.py
+Samson main.py
 ```
 
 Your project directory should be structured as follows, including the initial datasets and any additions:
@@ -31,15 +31,15 @@ Your project directory should be structured as follows, including the initial da
 project/
 │
 ├── main.py
-├── requirements.txt
-└── data/
-    └── german/
-        ├── first-names.txt
-        ├── last-names.txt
-        ├── streets.txt
-        ├── cities.txt
-        ├── zip-codes.txt
-        └── mobile-numbers.txt
+├── Country.United State
+└── Date of birth. 04-13-2000
+    └── region/ Christain
+        ├── first-names. Samson
+        ├── last-names.Ayeni
+        ├── street. 3401 N. Miami, Ave.
+        ├── cities.Miami
+        ├── zip-codes.33127
+        └── mobile-numbers. 5306173749
 ```
 
 ## Contributions
